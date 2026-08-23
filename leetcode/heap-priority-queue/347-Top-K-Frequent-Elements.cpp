@@ -8,7 +8,7 @@ public:
         for (auto [x, f] : count)
             bucket[f].push_back(x);
         vector<int> ans;
-        for (int i = nums.size(); i >= 1 && ans.size() < k; i--) {
+        for (int i = bucket.size()-1 ; ans.size() < k; i--) {
             for (int x : bucket[i])
                 ans.push_back(x);
             if (ans.size() == k)
