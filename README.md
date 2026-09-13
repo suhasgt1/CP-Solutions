@@ -14,7 +14,7 @@ Synced automatically by SolveBase.
 
 Solutions by [CacheCrusher](https://codeforces.com/profile/CacheCrusher), organized by difficulty rating.
 
-**Solved: 3**
+**Solved: 16**
 
 | Difficulty | Solved |
 | --- | --- |
